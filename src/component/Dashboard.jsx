@@ -13,6 +13,7 @@ function Dashboard() {
         </p>
 
         <p>yeh dashboard ke bger jivan adhura hai </p>
+        <p>open pr checking</p>
     </div>
 
   )
