@@ -7,6 +7,7 @@ function Dashboard() {
 
         <P>Dashaboard is very simple and useful </P>
         <P>why it is important</P>
+        <P>kya haiyh </P>
     </div>
   )
 }
